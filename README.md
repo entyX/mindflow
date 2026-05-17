@@ -1,5 +1,8 @@
 # MindFlow AI
 
+## LINK TO APP
+https://mindflow.entity9993.workers.dev/
+
 ## Inspiration
 
 Today's students and young people are constantly plagued by poor habits, lack of motivation, too much to do, burn-out and stress. Productivity apps are more mechanical and repetitive, and mental wellness apps don’t work out in the real world. We wanted to develop something that was more of a personal and supportive experience, an AI wellness companion that could really help people to be more motivated, more mindful, emotionally balanced and more productive, each and every day. With technology becoming a valuable asset to the world, MindFlow AI came into the picture which is an idea that technology should augment people in living their healthier and happier life while helping them work harder.
